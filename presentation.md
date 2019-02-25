@@ -12,8 +12,8 @@
 * Idee von @ajuvo aus der cbase
 * fuer Menschen aus dem ChaosUniversum
 * Genogruendungskosten sind ~ 10k 
-* Tausendideen was man machen koennte
-* mehr Hintergruende auf media.ccc.de und hkbl.de
+* Tausend Ideen was man machen koennte
+* mehr Hintergruende auf [media.ccc.de](https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften) und [hkbl.de](http://hkbl.de)
 
 ---
 
@@ -38,12 +38,14 @@
 
 # Kontakt
 
-geno@damals-tm-podcast.de
+[geno@damals-tm-podcast.de](mailto:geno@damals-tm-podcast.de)
 
-media.ccc.de
+[media.ccc.de](https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften)
 
-hkbl.de
+[@hackergeno@chaos.social](https://chaos.social/@HackerGeno)
+
+[hkbl.de](http://hkbl.de)
 
 ---
 
-# danke
+# danke	
