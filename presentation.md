@@ -11,8 +11,8 @@
 * Genossenschaft ist eine UN-Form
 * Idee von @ajuvo aus der cbase
 * fuer Menschen aus dem ChaosUniversum
-* Genogruendungskosten sind ~ 10k 
-* Tausend Ideen was man machen koennte
+* Genogruendungskosten sind ~ 10k EUR
+* Tausend Ideen, was man machen koennte
 * mehr Hintergruende auf [media.ccc.de](https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften) und [hkbl.de](http://hkbl.de)
 
 ---
@@ -20,9 +20,9 @@
 # Fahrplan 
 ## Kurzvariante
 
-* Interessentenanmeldung (immer noch moeglich!!)
-* Dikussionsforum
-* Vorvereinsgruendung (passiert gerade in DD)
+* Interessentenanmeldung (immer noch moeglich!)
+* Diskussionsforum
+* Vorvereinsgruendung (Verein ist in Dresden gegruendet worden)
 * Interessenten -> Mitglieder
 * Geldeinsammlung ueber den Verein
 * Genossenschaftsgruendung durch Verein
